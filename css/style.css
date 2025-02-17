@@ -6,7 +6,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-image: url(/Multimedia/bground-pattern.jpg);
+  background-image: url(../Multimedia/bground-pattern.jpg);
   color: #333;
   display: flex;
   justify-content: center;
