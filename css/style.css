@@ -154,7 +154,7 @@ body {
 }
 
 .seccion {
-  padding: 100px 20px;
+  padding: 35px 20px;
   text-align: center;
   opacity: 0; /* Inicialmente invisible */
   transform: translateY(50px); /* Aparece desde abajo */
